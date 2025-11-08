@@ -63,7 +63,7 @@ This project demonstrates the practical application of **Machine Learning in hea
 
 3. **Install required dependencies:**
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 4. **Run the Jupyter Notebook or Python script to train and test the model.**
