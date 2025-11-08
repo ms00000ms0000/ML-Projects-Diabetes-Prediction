@@ -68,9 +68,9 @@ The trained **Support Vector Machine (Linear Kernel)** model achieved an accurac
 
 📦 ML_Project_Diabetes_Prediction
 │
-├── diabetes_prediction_model.ipynb # Jupyter Notebook with full code
-├── diabetes.csv # Dataset used for training
-└── README.md # Project documentation
+├── diabetes_prediction_model.ipynb  # Jupyter Notebook with full code
+├── diabetes.csv  # Dataset used for training
+└── README.md  # Project documentation
 
 
 ---
@@ -89,14 +89,15 @@ The trained **Support Vector Machine (Linear Kernel)** model achieved an accurac
 
 
 3. **Run the notebook:**
-```bash jupyter notebook diabetes_prediction_model.ipynb
+  ```bash
+  jupyter notebook diabetes_prediction_model.ipynb
 
   
 4. **Execute all cells to train, test, and evaluate the model.**
 
 ## 📈 Future Improvements  
 
-**Integrate a web interface using Flask or Streamlit*
+*Integrate a web interface using Flask or Streamlit*
 
 *Apply other ML algorithms (Random Forest, XGBoost) for comparison*
 
