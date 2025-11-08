@@ -66,12 +66,14 @@ The trained **Support Vector Machine (Linear Kernel)** model achieved an accurac
 
 ## 📁 Repository Structure  
 
+```
+
 📦 ML_Project_Diabetes_Prediction
 │
 ├── diabetes_prediction_model.ipynb  # Jupyter Notebook with full code
 ├── diabetes.csv  # Dataset used for training
 └── README.md  # Project documentation
-
+```
 
 ---
 
@@ -81,27 +83,28 @@ The trained **Support Vector Machine (Linear Kernel)** model achieved an accurac
    ```bash
    git clone https://github.com/ms00000ms0000/ML-Project-Diabetes-Prediction.git
    cd ML-Project-Diabetes-Prediction
-
+   ```
 
 2. **Install dependencies:**
     ```bash
    pip install -r requirements.txt
-
+    ```
 
 3. **Run the notebook:**
   ```bash
-  jupyter notebook diabetes_prediction_model.ipynb
-
+   jupyter notebook diabetes_prediction_model.ipynb
+  ```
   
 4. **Execute all cells to train, test, and evaluate the model.**
+ 
 
 ## 📈 Future Improvements  
 
-*Integrate a web interface using Flask or Streamlit*
+* Integrate a web interface using Flask or Streamlit
 
-*Apply other ML algorithms (Random Forest, XGBoost) for comparison*
+* Apply other ML algorithms (Random Forest, XGBoost) for comparison
 
-*Enhance interpretability with SHAP or LIME visualization*
+* Enhance interpretability with SHAP or LIME visualization
 
 ## 👨‍💻 Developer
 
