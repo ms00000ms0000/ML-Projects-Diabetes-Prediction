@@ -15,9 +15,7 @@ It leverages clinical data to support **early detection** of diabetes, enabling 
 ## 🧠 Model Architecture  
 The project uses a **Support Vector Machine (SVM)** with the following specifications:  
 * **Algorithm:** SVM (Linear Kernel)  
-* **Problem Type:** Binary Classification (Diabetic / Non-Diabetic)  
-* **Loss Function:** Hinge Loss  
-* **Optimizer:** Gradient Descent (through Scikit-learn)  
+* **Problem Type:** Binary Classification (Diabetic / Non-Diabetic)    
 * **Evaluation Metric:** Accuracy Score  
 
 ---
