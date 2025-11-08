@@ -86,12 +86,12 @@ The trained **Support Vector Machine (Linear Kernel)** model achieved an accurac
 
 
 2. **Install dependencies:**
-   bash
+    ```bash
    pip install -r requirements.txt
 
 
 3. **Run the notebook:**
-  bash
+    ```bash
   jupyter notebook diabetes_prediction_model.ipynb
 
 
@@ -99,11 +99,11 @@ The trained **Support Vector Machine (Linear Kernel)** model achieved an accurac
 
 ## 📈 Future Improvements
 
-*Integrate a web interface using Flask or Streamlit
+**Integrate a web interface using Flask or Streamlit*
 
-*Apply other ML algorithms (Random Forest, XGBoost) for comparison
+*Apply other ML algorithms (Random Forest, XGBoost) for comparison*
 
-*Enhance interpretability with SHAP or LIME visualization
+*Enhance interpretability with SHAP or LIME visualization*
 
 ## 👨‍💻 Developer
 
