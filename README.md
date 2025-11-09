@@ -70,8 +70,8 @@ The trained **Support Vector Machine (Linear Kernel)** model achieved an accurac
 
 📦 ML_Project_Diabetes_Prediction
 │
-├── diabetes_prediction_model.ipynb  # Jupyter Notebook with full code
-├── diabetes.csv  # Dataset used for training
+├── Diabetes_Prediction.ipynb # Jupyter Notebook with full code
+├── diabetespred.csv  # Dataset used for training
 └── README.md  # Project documentation
 ```
 
