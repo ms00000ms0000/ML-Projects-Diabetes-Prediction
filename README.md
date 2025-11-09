@@ -97,6 +97,7 @@ The trained **Support Vector Machine (Linear Kernel)** model achieved an accurac
   
 4. **Execute all cells to train, test, and evaluate the model.**
  
+---
 
 ## 📈 Future Improvements  
 
@@ -105,6 +106,8 @@ The trained **Support Vector Machine (Linear Kernel)** model achieved an accurac
 * Apply other ML algorithms (Random Forest, XGBoost) for comparison
 
 * Enhance interpretability with SHAP or LIME visualization
+
+---
 
 ## 👨‍💻 Developer
 
